@@ -177,8 +177,7 @@ export default function ViewApplications() {
       <div className="row my-5 mx-0">
         <div className="col-md">
           <h3
-            className="mx-4"
-            className="mb-0"
+            className="mx-4 mb-0"
             style={{
               fontWeight: "600",
               color: "#333",
